@@ -1,2 +1,2 @@
 # django-101-repo
-Learning time
+### A easy and simple Django blog
